@@ -1,16 +1,36 @@
-# contact_fetch_task
 
-A new Flutter project.
+# Contact Fetch Task
+
+This Flutter project retrieves and displays a list of contacts, showcasing contact-fetching functionality for mobile apps.
+
+## Features
+
+- Fetch contacts from the device
+- Display contacts in a user-friendly list format
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ZaidBaloch01/contact_fetch_task.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd contact_fetch_task
+   ```
+3. Run the app:
+   ```bash
+   flutter run
+   ```
+
+## Resources
+
+- [Flutter Documentation](https://flutter.dev/docs)
+- [Flutter Cookbook](https://flutter.dev/docs/cookbook)
+

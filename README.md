@@ -14,23 +14,3 @@ This Flutter project retrieves and displays a list of contacts, showcasing conta
 
 - [Flutter SDK](https://flutter.dev/docs/get-started/install)
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ZaidBaloch01/contact_fetch_task.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd contact_fetch_task
-   ```
-3. Run the app:
-   ```bash
-   flutter run
-   ```
-
-## Resources
-
-- [Flutter Documentation](https://flutter.dev/docs)
-- [Flutter Cookbook](https://flutter.dev/docs/cookbook)
-
